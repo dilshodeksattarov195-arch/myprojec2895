@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpecrypt",
+        "uuid": 28866045,
+        "checksum": "a66wbj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
